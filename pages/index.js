@@ -1,13 +1,11 @@
 import Head from "next/head";
 import Image from "next/image";
-// import { Geist, Geist_Mono } from "next/font/google";
 import { getPostsData } from "@/lib/posts"
 import Link from "next/link";
 import Layout, { siteTitle } from "@/components/Layout";
 import utilStyles from "../styles/utils.module.css"
 import homeStyles from "../styles/Home.module.css"
 
-// 投稿データをposts.jsから読み込んでビルド時に取得（SSG:静的生成）
 export async function getStaticProps() {
   const allPostsData = getPostsData();
   return {

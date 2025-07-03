@@ -1,6 +1,6 @@
 ---
 title: "自分のこれまでとこれから"
-date: "2025-06-16"
+date: "2025-06-14"
 thumbnail: "/thumbnail01.png"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ドイツ留学で得たこと"
-date: "2025-06-16"
+date: "2022-09-13"
 thumbnail: "/thumbnail02.png"
 ---
 

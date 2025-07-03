@@ -1,6 +1,6 @@
 ---
 title: "オーストラリアでのワーキングホリデー"
-date: "2025-06-16"
+date: "2024-06-28"
 thumbnail: "/thumbnail03.png"
 ---
 
