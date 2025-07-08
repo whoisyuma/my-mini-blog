@@ -18,7 +18,7 @@ thumbnail: "/thumbnail01.png"
 現在は主に以下の分野を学習・実践中です：
 
 - HTML / CSS / JavaScript
-- PHP
+- PHP / TypeScript
 - WordPressによるブログ構築
 - 日常を便利にする**Webアプリの開発**
 
