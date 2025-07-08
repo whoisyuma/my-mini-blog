@@ -27,7 +27,7 @@
 
 ## 公開サイト
 
-こちらからポートフォリオサイトをご覧いただけます：
+こちらからデプロイ後のサイトをご覧いただけます：
 [https://my-mini-blog-rosy.vercel.app/](https://my-mini-blog-rosy.vercel.app/)
 
 ## デザイン
@@ -76,7 +76,7 @@ It was created as a hands-on learning exercise to understand **Static Site Gener
 
 ## Live Site
 
-You can view the live site here:  
+You can view the deployed site here:    
 [https://my-mini-blog-rosy.vercel.app/](https://my-mini-blog-rosy.vercel.app/)
 
 ## Design
